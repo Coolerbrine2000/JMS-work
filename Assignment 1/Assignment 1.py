@@ -1,4 +1,4 @@
-"""# Q1
+# Q1
 x = 5j
 y = 3.542
 v = "Monday"
@@ -53,9 +53,9 @@ Answer2 = (Num1//Num2)
 print("The whole number answer is: ",Answer2)
 print("The remainder of the equations is: ",Answer)
 # End of Q4
-"""
+
 # Q5
-"""print("Number Comparison")
+print("Number Comparison")
 Num1 = float(input("Please input number 1: "))
 Num2 = float(input("Please input number 2: "))
 if Num1>Num2:
@@ -63,4 +63,4 @@ if Num1>Num2:
 elif Num1==Num2:
     print(Num1, "is equal to", Num2)
 elif Num1<Num2:
-    print(Num1,"is smaller than", Num2)"""
+    print(Num1,"is smaller than", Num2)
